@@ -1,0 +1,4 @@
+sigloc
+======
+
+The package sigloc
